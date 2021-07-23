@@ -6,7 +6,7 @@
 
 I'm a passionate Full Stack Web And App Developer and I'm here to win & help win. I enjoy creating new projects with high performing teams so please feel free to connect :)
 
-- 📫 How to reach me **test@gmail.com**
+- 📫 How to reach me **Christopher8611 (at) outlook (dot) com**
 
 - ⚡ Fun fact **I used to be in the army then owned a flower business**
 
