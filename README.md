@@ -1,4 +1,13 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christopher</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christopher</h1>  
+## 📊 My Github Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherBz&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+  
+## ✨ Top Languages Card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherBz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
@@ -23,22 +32,6 @@ I'm a passionate Full Stack Web And App Developer and I'm here to win & help win
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
-
-<br/>
-
-
-## 📊 My Github Stats
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherBz&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✨ Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherBz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>
-<br/>
 
 
 [![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChristopherBz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
