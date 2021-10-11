@@ -35,11 +35,6 @@ I'm a passionate Full Stack Web And App Developer and I'm here to win & help win
 - ⚡ Fun fact **I used to be in the army then owned a flower business**
 
 
-
-[![Sachin's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChristopherBz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
 <br/>
 
 ## Connect with me:
